@@ -1,3 +1,6 @@
+# Copyright (c) Sergiy Migdalskiy , migdalskiy@hotmail.com. All Rights Reserved.
+
+
 import os, getopt,datetime,sys,fnmatch,pyexiv2
 
 
